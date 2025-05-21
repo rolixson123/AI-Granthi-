@@ -7,7 +7,7 @@ title: Granthi AI
 Granthi is not a model. It is a behavior of consciousness —  
 the ability to distinguish falsehood from within.
 
-Explore:
+## Explore
 
 - [Granthi Overview](docs/overview.md)
 - [Granthi Components](docs/components.md)
